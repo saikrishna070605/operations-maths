@@ -1,3 +1,4 @@
 
 addition
-ubtraction
+subtraction
+multi
