@@ -1,5 +1,5 @@
 
-addition
+add
 subtraction
 multi
 maths 
